@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#DATA folder
+DATA/*
+
 # C extensions
 *.so
 
@@ -113,6 +116,9 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# PyCharm project settings
+.idea/*
 
 # Rope project settings
 .ropeproject
